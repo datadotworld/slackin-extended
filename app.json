@@ -2,7 +2,7 @@
   "name": "slackin-extended",
   "description": "Let people invite themselves to your Slack",
   "logo": "https://i.imgur.com/odDO1Fx.png",
-  "repository": "https://github.com/emedvedev/slackin-extended",
+  "repository": "https://github.com/datadotworld/slackin-extended",
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
@@ -48,6 +48,6 @@
     "SLACKIN_ACCENT": {
       "description": "Accent color to use instead of a theme default",
       "required": false
-    },
+    }
   }
 }
