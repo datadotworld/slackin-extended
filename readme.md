@@ -22,7 +22,7 @@ now emedvedev/slackin-extended
 
 Other platforms:
 
-- [Heroku](https://heroku.com/deploy?template=https://github.com/emedvedev/slackin-extended/tree/master)
+- [Heroku](https://heroku.com/deploy?template=https://github.com/datadotworld/slackin-extended/tree/master)
 - [Azure](https://azuredeploy.net/)
 - [OpenShift](https://github.com/rauchg/slackin/wiki/OpenShift)
 - [IBM Bluemix](https://bluemix.net/deploy?repository=https://github.com/emedvedev/slackin-extended)
