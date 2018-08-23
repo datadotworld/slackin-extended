@@ -65,7 +65,7 @@
     "test": "mocha && eslint lib/**",
     "build": "gulp",
     "start": "./bin/slackin",
-    "heroku-prebuild": "npm install --only=dev",
+    "heroku-prebuild": "npm install",
     "heroku-postbuild": "gulp"
   },
   "now": {
